@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning 3D reconstruction
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- It is just private account for me.
 
 <!---
 rokudoyly/rokudoyly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
