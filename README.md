@@ -1,4 +1,4 @@
-You are MY ![Visitor Count](https://profile-counter.glitch.me/rokudoyly/count.svg) **VISITOR!!!** 
+You are MY ![Visitor Count](https://profile-counter.glitch.me/rokudoyly/count.svg) **VISITORS!!!** 
 - 👋 Hi, I’m @rokudoyly
 - 👀 I’m interested in computer vision
 - 🌱 I’m currently learning 3D reconstruction
