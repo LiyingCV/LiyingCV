@@ -5,7 +5,6 @@ You are MY ![Visitor Count](https://profile-counter.glitch.me/rokudoyly/count.sv
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - ![decription](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![decription](https://img.shields.io/badge/Tools-pytorch-blue) ![decription](https://img.shields.io/badge/Tools-pytorch--lightning-blue)
 - It is just private account for me.
 
 <!---
