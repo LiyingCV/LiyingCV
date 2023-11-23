@@ -8,7 +8,7 @@ LiyingCV/LiyingCV is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-**I'm searching for a research internship about 3D object reconstruction/generation and multimodal 3D generation, if you have any recommendations, please send an email to lyyang69@gmail.com.**
+## **I'm searching for a research internship about 3D object reconstruction/generation and multimodal 3D generation, if you have any recommendations, please send an email to lyyang69@gmail.com.**
 
 
 ![rokudoyly's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiyingCV&show_icons=true&theme=vue)
