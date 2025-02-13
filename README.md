@@ -1,6 +1,6 @@
 You are MY ![Visitor Count](https://profile-counter.glitch.me/rokudoyly/count.svg) **VISITORS!!!** 
 - 👋 Hi, I’m @LiyingCV
-- 👀 I’m interested in computer vision, 3D reconstruction, 3D generation and 4D generation.
+- 👀 I’m interested in computer vision, 3D Reconstruction & Generation and 4D Reconstruction & Generation.
 - I'm currently a second-year PhD student at M.U.S.T.
 
 <!---
