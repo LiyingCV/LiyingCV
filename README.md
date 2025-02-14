@@ -2,6 +2,7 @@ You are MY ![Visitor Count](https://profile-counter.glitch.me/rokudoyly/count.sv
 - 👋 Hi, I’m @LiyingCV
 - 👀 I’m interested in computer vision, 3D Reconstruction & Generation and 4D Reconstruction & Generation.
 - I'm currently a second-year PhD student at M.U.S.T.
+- I'm a research intern at NetEase (2024-Now)
 
 <!---
 LiyingCV/LiyingCV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
